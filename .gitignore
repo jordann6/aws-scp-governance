@@ -2,6 +2,6 @@
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
-*.tfvars
+*.auto.tfvars
 venv/
 __pycache__/
